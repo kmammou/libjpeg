@@ -5,7 +5,7 @@
 # Please note that the package source code is licensed under its own license.
 
 project ( libjpeg C )
-cmake_minimum_required ( VERSION 3.0 )
+cmake_minimum_required (VERSION 3.0)
 include ( cmake/dist.cmake )
 
 OPTION(BUILD_STATIC OFF)
